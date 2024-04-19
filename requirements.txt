@@ -1,0 +1,8 @@
+streamlit
+pandasai
+python-dotenv
+bs4
+plotly
+pandas
+openai
+PyYAML
